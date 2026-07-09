@@ -1,0 +1,30 @@
+QUESTÃO 138
+Em um jogo há duas urnas com 10 bolas de mesmo
+tamanho em cada uma. A tabela a seguir indica as
+quantidades de bolas de cada cor em cada urna.
+
+Cor | Urna 1 | Urna 2
+Amarela | 4 | 0
+Azul | 3 | 1
+Branca | 2 | 2
+Verde | 1 | 3
+Vermelha | 0 | 4
+
+Uma jogada consiste em:
+1º) o jogador apresenta um palpite sobre a cor da bola
+que será retirada por ele da urna 2;
+2º) ele retira, aleatoriamente, uma bola da urna 1 e a
+coloca na urna 2, misturando-a com as que lá estão;
+3º) em seguida ele retira, também aleatoriamente, uma
+bola da urna 2;
+4º) se a cor da última bola retirada for a mesma do palpite
+inicial, ele ganha o jogo.
+
+Qual cor deve ser escolhida pelo jogador para que ele
+tenha a maior probabilidade de ganhar?
+
+A Azul.
+B Amarela.
+C Branca.
+D Verde.
+E Vermelha.

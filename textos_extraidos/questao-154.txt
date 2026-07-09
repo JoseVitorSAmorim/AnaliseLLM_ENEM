@@ -1,0 +1,9 @@
+QUESTÃO 154
+João propôs um desafio a Bruno, seu colega de classe: ele iria descrever um deslocamento pela pirâmide a seguir e Bruno deveria desenhar a projeção desse deslocamento no plano da base da pirâmide.
+O deslocamento descrito por João foi: mova-se pela pirâmide, sempre em linha reta, do ponto A ao ponto E, a seguir do ponto E ao ponto M, e depois de M a C.
+O desenho que Bruno deve fazer é
+A)
+B)
+C)
+D)
+E)

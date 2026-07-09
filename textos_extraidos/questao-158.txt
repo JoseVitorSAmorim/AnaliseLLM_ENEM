@@ -1,0 +1,20 @@
+QUESTÃO 158
+
+O gráfico fornece os valores das ações da empresa XPN, no período das 10 às 17 horas, num dia em que elas oscilaram acentuadamente em curtos intervalos de tempo.
+
+Neste dia, cinco investidores compraram e venderam o mesmo volume de ações, porém em horários diferentes, de acordo com a seguinte tabela.
+
+Investidor | Hora da Compra | Hora da Venda
+---|---|---
+1 | 10:00 | 15:00
+2 | 10:00 | 17:00
+3 | 13:00 | 15:00
+4 | 15:00 | 16:00
+5 | 16:00 | 17:00
+
+Com relação ao capital adquirido na compra e venda das ações, qual investidor fez o melhor negócio?
+A) 1
+B) 2
+C) 3
+D) 4
+E) 5

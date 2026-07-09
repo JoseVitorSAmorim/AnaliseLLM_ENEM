@@ -1,0 +1,18 @@
+QUESTÃO 147
+
+Alguns objetos, durante a sua fabricação, necessitam
+passar por um processo de resfriamento. Para que isso
+ocorra, uma fábrica utiliza um tanque de resfriamento,
+como mostrado na figura.
+
+O que aconteceria com o nível da água se colocássemos
+no tanque um objeto cujo volume fosse de 2 400 cm³?
+
+A O nível subiria 0,2 cm, fazendo a água ficar com
+20,2 cm de altura.
+B O nível subiria 1 cm, fazendo a água ficar com
+21 cm de altura.
+C O nível subiria 2 cm, fazendo a água ficar com
+22 cm de altura.
+D O nível subiria 8 cm, fazendo a água transbordar.
+E O nível subiria 20 cm, fazendo a água transbordar.

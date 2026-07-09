@@ -1,0 +1,19 @@
+QUESTÃO 164
+Em um blog de variedades, músicas, mantras e informações diversas, foram postados “Contos de Halloween”. Após a leitura, os visitantes poderiam opinar, assinalando suas reações em: “Divertido”, “Assustador” ou “Chato”. Ao final de uma semana, o blog registrou que 500 visitantes distintos acessaram esta postagem.
+
+O gráfico a seguir apresenta o resultado da enquete.
+**[FIGURA: Gráfico de barras horizontais intitulado "CONTOS DE HALLOWEEN: opinião dos visitantes". O eixo vertical lista as categorias de opinião, e o eixo horizontal representa a porcentagem de visitantes, variando de 0% a 60%. As barras e suas respectivas porcentagens são:
+- DIVERTIDO: 52%
+- ASSUSTADOR: 15%
+- CHATO: 12%
+- NÃO OPINARAM: 21%
+A soma das porcentagens é 52% + 15% + 12% + 21% = 100%.]**
+
+O administrador do blog irá sortear um livro entre os visitantes que opinaram na postagem “Contos de Halloween”.
+
+Sabendo que nenhum visitante votou mais de uma vez, a probabilidade de uma pessoa escolhida ao acaso entre as que opinaram ter assinalado que o conto “Contos de Halloween” é “Chato” é mais aproximada por
+A 0,09.
+B 0,12.
+C 0,14.
+D 0,15.
+E 0,18.

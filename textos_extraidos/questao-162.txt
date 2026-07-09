@@ -1,0 +1,18 @@
+QUESTÃO 162
+
+O losango representado na Figura 1 foi formado pela
+união dos centros das quatro circunferências tangentes,
+de raios de mesma medida.
+
+Dobrando-se o raio de duas das circunferências centradas
+em vértices opostos do losango e ainda mantendo-se
+a configuração das tangências, obtém-se uma situação
+conforme ilustrada pela Figura 2.
+
+O perímetro do losango da Figura 2, quando comparado
+ao perímetro do losango da Figura 1, teve um aumento de
+A) 300%.
+B) 200%.
+C) 150%.
+D) 100%.
+E) 50%.

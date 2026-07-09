@@ -1,0 +1,12 @@
+QUESTÃO 151
+
+Um forro retangular de tecido traz em sua etiqueta a informação de que encolherá após a primeira lavagem mantendo, entretanto, seu formato. A figura a seguir mostra as medidas originais do forro e o tamanho do encolhimento (x) no comprimento e (y) na largura. A expressão algébrica que representa a área do forro após ser lavado é (5 − x) (3 − y).
+**[FIGURA: Diagrama geométrico que representa um forro retangular de tecido. O forro original é um retângulo maior com comprimento total indicado por '5' (medida horizontal abaixo do retângulo) e largura total indicada por '3' (medida vertical à direita do retângulo). Dentro deste retângulo maior, há duas linhas perpendiculares (uma horizontal e uma vertical) que se cruzam, dividindo o retângulo em quatro retângulos menores. O canto inferior direito desses retângulos menores tem um comprimento 'x' (medida horizontal) e uma largura 'y' (medida vertical), indicando o encolhimento nas respectivas dimensões.]**
+
+Nestas condições, a área perdida do forro, após a primeira lavagem, será expressa por
+
+A 2xy
+B 15 − 3x
+C 15 − 5y
+D −5y − 3x
+E 5y + 3x − xy

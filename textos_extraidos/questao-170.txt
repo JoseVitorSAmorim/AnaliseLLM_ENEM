@@ -1,0 +1,17 @@
+QUESTÃO 170
+
+A tabela a seguir mostra a evolução da receita bruta
+anual nos três últimos anos de cinco microempresas (ME)
+que se encontram à venda.
+
+Um investidor deseja comprar duas das empresas listadas
+na tabela. Para tal, ele calcula a média da receita bruta
+anual dos últimos três anos (de 2009 até 2011) e escolhe
+as duas empresas de maior média anual.
+
+As empresas que este investidor escolhe comprar são
+A Balas W e Pizzaria Y.
+B Chocolates X e Tecelagem Z.
+C Pizzaria Y e Alfinetes V.
+D Pizzaria Y e Chocolates X.
+E Tecelagem Z e Alfinetes V.

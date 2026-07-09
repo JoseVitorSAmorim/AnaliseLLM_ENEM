@@ -1,0 +1,11 @@
+QUESTÃO 177
+
+Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k·m^(2/3), em que k é uma constante positiva.
+
+Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal?
+
+A ∛16
+B 4
+C √24
+D 8
+E 64

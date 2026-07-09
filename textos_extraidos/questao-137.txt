@@ -1,0 +1,15 @@
+QUESTÃO 137
+
+Um biólogo mediu a altura de cinco árvores distintas e representou-as em uma mesma malha quadriculada, utilizando escalas diferentes, conforme indicações na figura a seguir.
+**[FIGURA: A imagem apresenta uma malha quadriculada (grade de linhas horizontais e verticais uniformes) contendo representações esquemáticas de cinco árvores, identificadas de I a V. Cada árvore é desenhada com um tronco e uma copa estilizada, e sua altura é medida em unidades da grade. Abaixo de cada árvore, é fornecido seu identificador e a escala de representação. As alturas no desenho e as escalas são as seguintes:
+- Árvore I: Atinge 8 unidades de altura na grade. Escala: 1:100.
+- Árvore II: Atinge 8 unidades de altura na grade. Escala: 2:100.
+- Árvore III: Atinge 6 unidades de altura na grade. Escala: 2:300.
+- Árvore IV: Atinge 4 unidades de altura na grade. Escala: 1:300.
+- Árvore V: Atinge 4 unidades de altura na grade. Escala: 2:300.]**
+Qual é a árvore que apresenta a maior altura real?
+A I
+B II
+C III
+D IV
+E V

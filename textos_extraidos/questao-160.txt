@@ -1,0 +1,14 @@
+QUESTÃO 160
+
+Uma mãe recorreu à bula para verificar a dosagem
+de um remédio que precisava dar a seu filho. Na bula,
+recomendava-se a seguinte dosagem: 5 gotas para cada
+2 kg de massa corporal a cada 8 horas.
+
+Se a mãe ministrou corretamente 30 gotas do remédio a
+seu filho a cada 8 horas, então a massa corporal dele é de
+A 12 kg.
+B 16 kg.
+C 24 kg.
+D 36 kg.
+E 75 kg.

@@ -1,0 +1,12 @@
+QUESTÃO 136
+
+O diretor de uma escola convidou os 280 alunos de terceiro ano a participarem de uma brincadeira. Suponha que existem 5 objetos e 6 personagens numa casa de 9 cômodos; um dos personagens esconde um dos objetos em um dos cômodos da casa. O objetivo da brincadeira é adivinhar qual objeto foi escondido por qual personagem e em qual cômodo da casa o objeto foi escondido.
+
+Todos os alunos decidiram participar. A cada vez um aluno é sorteado e dá a sua resposta. As respostas devem ser sempre distintas das anteriores, e um mesmo aluno não pode ser sorteado mais de uma vez. Se a resposta do aluno estiver correta, ele é declarado vencedor e a brincadeira é encerrada.
+
+O diretor sabe que algum aluno acertará a resposta porque há
+A 10 alunos a mais do que possíveis respostas distintas.
+B 20 alunos a mais do que possíveis respostas distintas.
+C 119 alunos a mais do que possíveis respostas distintas.
+D 260 alunos a mais do que possíveis respostas distintas.
+E 270 alunos a mais do que possíveis respostas distintas.

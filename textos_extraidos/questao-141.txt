@@ -1,0 +1,14 @@
+QUESTÃO 141
+
+Maria quer inovar em sua loja de embalagens e decidiu
+vender caixas com diferentes formatos. Nas imagens
+apresentadas estão as planificações dessas caixas.
+
+Quais serão os sólidos geométricos que Maria obterá a
+partir dessas planificações?
+
+A Cilindro, prisma de base pentagonal e pirâmide.
+B Cone, prisma de base pentagonal e pirâmide.
+C Cone, tronco de pirâmide e pirâmide.
+D Cilindro, tronco de pirâmide e prisma.
+E Cilindro, prisma e tronco de cone.

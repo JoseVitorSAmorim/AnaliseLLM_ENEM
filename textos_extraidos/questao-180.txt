@@ -1,0 +1,16 @@
+QUESTÃO 180
+
+Em 20 de fevereiro de 2011 ocorreu a grande erupção
+do vulcão Bulusan nas Filipinas. A sua localização
+geográfica no globo terrestre é dada pelo GPS (sigla
+em inglês para Sistema de Posicionamento Global) com
+longitude de 124º 3'0” a leste do Meridiano de Greenwich.
+Dado: 1º equivale a 60' e 1' equivale a 60”.
+PAVARIN, G. Galileu, fev. 2012 (adaptado).
+A representação angular da localização do vulcão com
+relação a sua longitude na forma decimal é
+A 124,02º.
+B 124,05º.
+C 124,20º.
+D 124,30º.
+E 124,50º.

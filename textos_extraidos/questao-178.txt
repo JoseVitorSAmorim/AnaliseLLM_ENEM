@@ -1,0 +1,20 @@
+QUESTÃO 178
+
+Um aluno registrou as notas bimestrais de algumas de suas disciplinas numa tabela. Ele observou que as entradas numéricas da tabela formavam uma matriz 4x4, e que poderia calcular as médias anuais dessas disciplinas usando produto de matrizes. Todas as provas possuíam o mesmo peso, e a tabela que ele conseguiu é mostrada a seguir.
+**[FIGURA: Tabela com as notas bimestrais de quatro disciplinas. As colunas são "1° bimestre", "2° bimestre", "3° bimestre" e "4° bimestre". As linhas representam as disciplinas:
+- Matemática: 5,9 (1° bimestre), 6,2 (2° bimestre), 4,5 (3° bimestre), 5,5 (4° bimestre).
+- Português: 6,6 (1° bimestre), 7,1 (2° bimestre), 6,5 (3° bimestre), 8,4 (4° bimestre).
+- Geografia: 8,6 (1° bimestre), 6,8 (2° bimestre), 7,8 (3° bimestre), 9,0 (4° bimestre).
+- História: 6,2 (1° bimestre), 5,6 (2° bimestre), 5,9 (3° bimestre), 7,7 (4° bimestre).]**
+
+Para obter essas médias, ele multiplicou a matriz obtida a partir da tabela por
+
+A **[FIGURA: Matriz linha 1x4, com os elementos 1/2, 1/2, 1/2, 1/2, dispostos horizontalmente dentro de colchetes.]**
+
+B **[FIGURA: Matriz linha 1x4, com os elementos 1/4, 1/4, 1/4, 1/4, dispostos horizontalmente dentro de colchetes.]**
+
+C **[FIGURA: Matriz coluna 4x1, com os elementos 1, 1, 1, 1, dispostos verticalmente dentro de colchetes.]**
+
+D **[FIGURA: Matriz coluna 4x1, com os elementos 1/2, 1/2, 1/2, 1/2, dispostos verticalmente dentro de colchetes.]**
+
+E **[FIGURA: Matriz coluna 4x1, com os elementos 1/4, 1/4, 1/4, 1/4, dispostos verticalmente dentro de colchetes.]**

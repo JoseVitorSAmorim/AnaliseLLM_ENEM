@@ -1,0 +1,12 @@
+QUESTÃO 149
+
+Para decorar a fachada de um edifício, um arquiteto projetou a colocação de vitrais compostos de quadrados de lado medindo 1 m, conforme a figura a seguir.
+
+Nesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem 1/4 da medida do lado do quadrado. Para confeccionar um vitral, são usados dois tipos de materiais: um para a parte sombreada da figura, que custa R$ 30,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que custa R$ 50,00 o m².
+
+De acordo com esses dados, qual é o custo dos materiais usados na fabricação de um vitral?
+A R$ 22,50
+B R$ 35,00
+C R$ 40,00
+D R$ 42,50
+E R$ 45,00

@@ -1,0 +1,18 @@
+QUESTÃO 157
+
+João decidiu contratar os serviços de uma empresa
+por telefone através do SAC (Serviço de Atendimento
+ao Consumidor). O atendente ditou para João o número
+de protocolo de atendimento da ligação e pediu que
+ele anotasse. Entretanto, João não entendeu um dos
+algarismos ditados pelo atendente e anotou o número
+13_98207, sendo que o espaço vazio é o do algarismo
+que João não entendeu.
+
+De acordo com essas informações, a posição ocupada
+pelo algarismo que falta no número de protocolo é a de
+A centena.
+B dezena de milhar.
+C centena de milhar.
+D milhão.
+E centena de milhão.

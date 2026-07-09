@@ -1,0 +1,15 @@
+QUESTÃO 140
+
+O dono de uma farmácia resolveu colocar à vista
+do público o gráfico mostrado a seguir, que apresenta
+a evolução do total de vendas (em Reais) de certo
+medicamento ao longo do ano de 2011.
+
+De acordo com o gráfico, os meses em que ocorreram,
+respectivamente, a maior e a menor venda absolutas em
+2011 foram
+A março e abril.
+B março e agosto.
+C agosto e setembro.
+D junho e setembro.
+E junho e agosto.

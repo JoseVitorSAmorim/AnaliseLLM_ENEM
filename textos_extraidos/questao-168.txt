@@ -1,0 +1,12 @@
+QUESTÃO 168
+
+A Agência Espacial Norte Americana (NASA) informou que o asteroide YU 55 cruzou o espaço entre a Terra e a Lua no mês de novembro de 2011. A ilustração a seguir sugere que o asteroide percorreu sua trajetória no mesmo plano que contém a órbita descrita pela Lua em torno da Terra. Na figura, está indicada a proximidade do asteroide em relação à Terra, ou seja, a menor distância que ele passou da superfície terrestre.
+
+Disponível em: http://noticias.terra.com.br (adaptado).
+
+Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a
+A 3,25 × 10² km.
+B 3,25 × 10³ km.
+C 3,25 × 10⁴ km.
+D 3,25 × 10⁵ km.
+E 3,25 × 10⁶ km.

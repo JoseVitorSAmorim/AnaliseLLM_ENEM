@@ -1,0 +1,10 @@
+QUESTÃO 146
+Um maquinista de trem ganha R$ 100,00 por viagem e só pode viajar a cada 4 dias. Ele ganha somente se fizer a viagem e sabe que estará de férias de 1º a 10 de junho, quando não poderá viajar. Sua primeira viagem ocorreu no dia primeiro de janeiro. Considere que o ano tem 365 dias.
+
+Se o maquinista quiser ganhar o máximo possível, quantas viagens precisará fazer?
+
+A 37
+B 51
+C 88
+D 89
+E 91

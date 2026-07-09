@@ -1,0 +1,9 @@
+QUESTÃO 167
+Num projeto da parte elétrica de um edifício residencial a ser construído, consta que as tomadas deverão ser colocadas a 0,20 m acima do piso, enquanto os interruptores de luz deverão ser colocados a 1,47 m acima do piso. Um cadeirante, potencial comprador de um apartamento desse edifício, ao ver tais medidas, alerta para o fato de que elas não contemplarão suas necessidades. Os referenciais de alturas (em metros) para atividades que não exigem o uso de força são mostrados na figura seguinte.
+**[FIGURA: Diagrama esquemático mostrando um indivíduo em cadeira de rodas e seu alcance vertical em relação ao piso, com uma escala de alturas em metros. À direita da figura, uma linha vertical indica as seguintes alturas e suas respectivas descrições: 0,40 m, identificado como "mínimo", representando o limite inferior de alcance; um intervalo sombreado entre 0,80 m e 1,00 m, identificado como "confortável", indicando a faixa de alcance mais acessível para atividades que não exigem força; 1,20 m, indicando um limite superior de alcance confortável; e 1,35 m, identificado como "máximo", representando o limite superior de alcance total do indivíduo com o braço estendido acima da cabeça. Linhas tracejadas em forma de arco ilustram a trajetória e o alcance do braço do cadeirante em diferentes posições.]**
+Uma proposta substitutiva, relativa às alturas de tomadas e interruptores, respectivamente, que atenderá àquele potencial comprador é
+A 0,20 m e 1,45 m.
+B 0,20 m e 1,40 m.
+C 0,25 m e 1,35 m.
+D 0,25 m e 1,30 m.
+E 0,45 m e 1,20 m.

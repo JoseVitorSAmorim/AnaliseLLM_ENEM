@@ -1,0 +1,28 @@
+QUESTÃO 171
+
+Um laboratório realiza exames em que é possível
+observar a taxa de glicose de uma pessoa. Os resultados
+são analisados de acordo com o quadro a seguir.
+
+Hipoglicemia taxa de glicose menor ou igual a 70 mg/dL
+Normal taxa de glicose maior que 70 mg/dL e menor
+ou igual a 100 mg/dL
+Pré-diabetes taxa de glicose maior que 100 mg/dL e menor
+ou igual a 125 mg/dL
+Diabetes Melito taxa de glicose maior que 125 mg/dL e menor
+ou igual a 250 mg/dL
+Hiperglicemia taxa de glicose maior que 250 mg/dL
+
+Um paciente fez um exame de glicose nesse laboratório e
+comprovou que estava com hiperglicemia. Sua taxa de glicose
+era de 300 mg/dL. Seu médico prescreveu um tratamento em
+duas etapas. Na primeira etapa ele conseguiu reduzir sua
+taxa em 30% e na segunda etapa em 10%.
+
+Ao calcular sua taxa de glicose após as duas reduções, o
+paciente verificou que estava na categoria de
+A hipoglicemia.
+B normal.
+C pré-diabetes.
+D diabetes melito.
+E hiperglicemia.

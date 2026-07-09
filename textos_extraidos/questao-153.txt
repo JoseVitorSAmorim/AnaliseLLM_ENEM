@@ -1,0 +1,14 @@
+QUESTÃO 153
+A resistência mecânica S de uma viga de madeira, em forma de um paralelepípedo retângulo, é diretamente proporcional à sua largura (b) e ao quadrado de sua altura (d) e inversamente proporcional ao quadrado da distância entre os suportes da viga, que coincide com o seu comprimento (x), conforme ilustra a figura.
+**[FIGURA: Um diagrama em perspectiva de uma viga retangular (paralelepípedo) de madeira. A viga se estende horizontalmente da esquerda para a direita. Na seção transversal à esquerda, a largura da viga é indicada pela letra 'b' e a altura pela letra 'd'. O comprimento total da viga, que representa a distância entre os suportes, é indicado pela letra 'x'. A viga é desenhada com linhas simples, e a seção transversal esquerda é sombreada.]**
+A constante de proporcionalidade k é chamada de resistência da viga.
+
+BUSHAW, D. et al. Aplicações da matemática escolar. São Paulo: Atual, 1997.
+
+A expressão que traduz a resistência S dessa viga de madeira é
+
+A S = k.b.d² / x²
+B S = k.b.d / x²
+C S = k.b.d² / x
+D S = k.b².d / x
+E S = k.b.2d / 2x

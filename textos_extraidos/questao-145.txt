@@ -1,0 +1,11 @@
+QUESTÃO 145
+
+Certo vendedor tem seu salário mensal calculado da seguinte maneira: ele ganha um valor fixo de R$ 750,00, mais uma comissão de R$ 3,00 para cada produto vendido. Caso ele venda mais de 100 produtos, sua comissão passa a ser de R$ 9,00 para cada produto vendido, a partir do 101º produto vendido.
+
+Com essas informações, o gráfico que melhor representa a relação entre salário e o número de produtos vendidos é
+
+A
+B
+C
+D
+E

@@ -1,0 +1,14 @@
+QUESTÃO 152
+A capacidade mínima, em BTU/h, de um aparelho de ar-condicionado, para ambientes sem exposição ao sol, pode ser determinada da seguinte forma:
+* 600 BTU/h por m², considerando-se até duas pessoas no ambiente;
+* para cada pessoa adicional nesse ambiente, acrescentar 600 BTU/h;
+* acrescentar mais 600 BTU/h para cada equipamento eletroeletrônico em funcionamento no ambiente.
+
+Será instalado um aparelho de ar-condicionado em uma sala, sem exposição ao sol, de dimensões 4 m x 5 m, em que permaneçam quatro pessoas e possua um aparelho de televisão em funcionamento.
+
+A capacidade mínima, em BTU/h, desse aparelho de ar- condicionado deve ser
+A 12 000.
+B 12 600.
+C 13 200.
+D 13 800.
+E 15 000.
