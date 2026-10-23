@@ -1,0 +1,112 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 101,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-101.txt",
+            "gabarito": "E"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LCT",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C5",
+            "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+        },
+        "habilidade_principal": {
+            "id": "H17",
+            "descricao": "Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H16",
+                "descricao": "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Literatura Brasileira Contemporânea",
+        "conteudos_relacionados": [
+            "Poesia lírica feminina",
+            "Construção antitética no poema",
+            "Crítica social e representação de papéis de gênero"
+        ],
+        "assunto": "Papéis sociais de gênero e condição feminina na lírica brasileira",
+        "objeto_de_analise": "Poema 'Das irmãs', de Sonia Queiroz",
+        "fenomeno_conceito": "Contraste entre a liberdade masculina e a restrição/domesticidade imposta à mulher na sociedade patriarcal"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "a mulher deve conservar uma assepsia que a distingue de homens, que podem se jogar na lama.",
+            "correta": false,
+            "justificativa": "O eu lírico não defende ou prescreve que a mulher 'deve' manter essa postura asséptica; pelo contrário, o texto expressa uma crítica à imposição restritiva que aprisiona a mulher enquanto confere liberdade aos homens."
+        },
+        {
+            "letra": "B",
+            "texto": "a palavra “fogo” é uma metáfora que remete ao ato de cozinhar, tarefa destinada às mulheres.",
+            "correta": false,
+            "justificativa": "No poema, são os irmãos que aparecem 'provando do fogo' (em sentido de ousadia e transgressão), enquanto a mulher aparece 'fechada provendo a comida'."
+        },
+        {
+            "letra": "C",
+            "texto": "a luta pela igualdade entre os gêneros depende da ascensão financeira e social das mulheres.",
+            "correta": false,
+            "justificativa": "O poema não condiciona a superação do problema à ascensão econômica das mulheres, mas problematiza a estrutura patriarcal (marcada pelo dote e casamento) e a assimetria das vivências."
+        },
+        {
+            "letra": "D",
+            "texto": "a cama, como sua “alvura e enxovais”, é um símbolo da fragilidade feminina no espaço doméstico.",
+            "correta": false,
+            "justificativa": "No texto, a cama está associada aos irmãos ('os meus irmãos jogando-se na cama'), enquanto à mulher cabe estar 'afiançada por dote e marido'."
+        },
+        {
+            "letra": "E",
+            "texto": "os papéis sociais destinados aos gêneros produzem efeitos e graus de autorrealização desiguais.",
+            "correta": true,
+            "justificativa": "A voz lírica estrutura o poema em pares de oposição entre a experiência dos irmãos (marcada por dinamismo, desfrute e liberdade) e a sua própria vivência (marcada pelo confinamento, contenção e subordinação doméstica), evidenciando os impactos desiguais da divisão tradicional de gênero."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "r1",
+        "datetime": "2026-10-22T21:49:06.963341",
+        "confianca": "alta",
+        "evidencias": [
+            "A estrutura em estrofes constrói antíteses sistemáticas ('meus irmãos / e eis-me', 'eles / e eu') para expor a disparidade entre as vivências masculinas e femininas.",
+            "O gabarito oficial E coaduna perfeitamente com a identificação do valor social sobre a desigualdade de gênero (H17)."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-101.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

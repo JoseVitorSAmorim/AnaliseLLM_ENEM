@@ -1,0 +1,113 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": "105",
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": "105",
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-105.txt",
+            "gabarito": "A"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "linguagens",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C7",
+            "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+        },
+        "habilidade_principal": {
+            "id": "H23",
+            "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H24",
+                "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "IV",
+            "nome": "Construir argumentação (CA)",
+            "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Intertextualidade e intencionalidade discursiva",
+        "conteudos_relacionados": [
+            "Objetivos comunicativos do autor",
+            "Recursos argumentativos e expressivos",
+            "Gênero notícia/reportagem",
+            "Papel da mulher no mercado de trabalho"
+        ],
+        "assunto": "Estratégias argumentativas e objetivos textuais",
+        "objeto_de_analise": "Trecho da matéria jornalística do Correio de Uberlândia que aborda o aumento de alunas em cursos automotivos",
+        "fenomeno_conceito": "Subversão de provérbio popular para demonstrar transformação social contemporânea"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "demonstrar que a situação das mulheres mudou na sociedade contemporânea.",
+            "correta": true,
+            "justificativa": "O enunciado inicial, combinado aos dados estatísticos apresentados (crescimento de 1 480% na presença feminina em cursos da área automotiva), tem como finalidade primordial demonstrar concretamente como o papel e os espaços ocupados pelas mulheres sofreram transformações na sociedade contemporânea."
+        },
+        {
+            "letra": "B",
+            "texto": "defender a participação da mulher na sociedade atual.",
+            "correta": false,
+            "justificativa": "O texto tem caráter eminentemente jornalístico-informativo e descritivo de dados da realidade, visando constatar e demonstrar uma mudança já em curso, e não fazer uma defesa programática/militante da causa."
+        },
+        {
+            "letra": "C",
+            "texto": "comparar esse enunciado com outro: “lugar de mulher é na cozinha”.",
+            "correta": false,
+            "justificativa": "Embora haja uma relação intertextual implícita com a frase estereotipada do senso comum, a comparação em si é apenas um recurso pontual de introdução, não o objetivo textual pretendido pela matéria."
+        },
+        {
+            "letra": "D",
+            "texto": "criticar a presença de mulheres nas oficinas dos cursos da área automotiva.",
+            "correta": false,
+            "justificativa": "O texto não tece crítica alguma à presença das alunas; pelo contrário, retrata o aumento expressivo de matrículas femininas como um dado positivo de transformação social."
+        },
+        {
+            "letra": "E",
+            "texto": "distorcer o sentido da frase “lugar de mulher é na cozinha”.",
+            "correta": false,
+            "justificativa": "O propósito comunicativo não é agir maliciosamente na distorção de um ditado, mas ressignificá-lo criticamente para expor uma nova realidade empírica."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "1.0",
+        "datetime": "2026-10-22T21:59:10.048568",
+        "confianca": "alta",
+        "evidencias": [
+            "O comando da questão solicita explicitamente inferir o objetivo do autor a partir de uma escolha estrutural do texto ('Lugar de mulher também é na oficina'), alinhando-se com perfeição à H23.",
+            "O texto base traz evidências quantitativas de uma mudança histórica concreta (2005 para 2012, aumento de 1 480%), ratificando a alternativa A como a intenção do autor ao usar o enunciado."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-105.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

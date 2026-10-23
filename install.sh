@@ -32,8 +32,8 @@ $PYTHON_CMD -m pip install --upgrade pip
 # 3. Instalar Dependências Python (Bibliotecas)
 echo "-> Instalando pacotes Python..."
 # google-genai já está aqui! Adicionei o python-dotenv para garantir a leitura do seu arquivo .env
-$PYTHON_CMD -m pip install google-genai
-s
+$PYTHON_CMD -m pip install google-genai python-dotenv
+
 echo "============================================================"
 echo " Processo finalizado!"
 echo "============================================================"

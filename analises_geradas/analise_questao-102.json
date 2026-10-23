@@ -1,0 +1,113 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": 102,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 102,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-102.txt",
+            "gabarito": "B"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "linguagens",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C5",
+            "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+        },
+        "habilidade_principal": {
+            "id": "H17",
+            "descricao": "Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H16",
+                "descricao": "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Interpretação de Texto Literário e Recursos Expressivos",
+        "conteudos_relacionados": [
+            "Ironia e efeitos de sentido",
+            "Poesia contemporânea brasileira",
+            "Crítica social e convenções matrimoniais"
+        ],
+        "assunto": "Crítica aos padrões e convenções sociais de casamento e felicidade na poesia contemporânea",
+        "objeto_de_analise": "Poema \"O sedutor médio\", de Luis Fernando Verissimo",
+        "fenomeno_conceito": "Ironia como recurso de desconstrução do ideal romântico"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "nos três primeiros versos, em que “juntar expectativas de vida” significa que, juntos, os cônjuges poderiam viver mais, o que faz do casamento uma convenção benéfica.",
+            "correta": false,
+            "justificativa": "A expressão 'expectativas de vida' é usada em tom irônico e estatístico, não sugerindo aumento literal da longevidade biológica nem exaltando o casamento como benéfico."
+        },
+        {
+            "letra": "B",
+            "texto": "na mensagem veiculada pelo poema, em que os valores da sociedade são ironizados, o que é acentuado pelo uso do adjetivo “médio” no título e do advérbio “meio” no verso final.",
+            "correta": true,
+            "justificativa": "O poema ironiza a mediocridade das convenções matrimoniais da classe média (renda, estatística de filhos, felicidade comedida/parcial), reforçada lexicalmente por 'médio' e 'meio'."
+        },
+        {
+            "letra": "C",
+            "texto": "no verso “e ser meio felizes?”, em que “meio” é sinônimo de metade, ou seja, no casamento, apenas um dos cônjuges se sentiria realizado.",
+            "correta": false,
+            "justificativa": "A palavra 'meio' funciona como advérbio de intensidade com sentido de 'mais ou menos' ou 'parcialmente', e não como o numeral 'metade' dividindo a felicidade entre os dois cônjuges."
+        },
+        {
+            "letra": "D",
+            "texto": "nos dois primeiros versos, em que “juntar rendas” indica que o sujeito poético passa por dificuldades financeiras e almeja os rendimentos da mulher.",
+            "correta": false,
+            "justificativa": "O poema não indica penúria do eu lírico ou interesse oportunista específico, mas retrata a união pragmática e financeira típica de um arranjo convencional moderno."
+        },
+        {
+            "letra": "E",
+            "texto": "no título, em que o adjetivo “médio” qualifica o sujeito poético como desinteressante ao sexo oposto e inábil em termos de conquistas amorosas.",
+            "correta": false,
+            "justificativa": "O termo 'médio' remete à ideia de mediania, de homem comum ou de classe média que propõe uma vida padronizada e sem grandes pretensões românticas, e não à total inaptidão amorosa."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "r1",
+        "datetime": "2026-10-22T21:51:50.157368",
+        "confianca": "alta",
+        "evidencias": [
+            "O gabarito oficial fornecido indica a alternativa B.",
+            "O poema emprega ironia ao tratar do modelo matrimonial padrão burguês, mobilizando termos como 'médio', 'rendas' e 'meio felizes'.",
+            "A identificação de valores sociais e do modo como são tratados artisticamente alinha-se à Competência 5 (H17/H16)."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-102.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": false,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

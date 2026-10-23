@@ -1,0 +1,113 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": 103,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 103,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-103.txt",
+            "gabarito": "E"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "linguagens",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C7",
+            "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+        },
+        "habilidade_principal": {
+            "id": "H23",
+            "descricao": "Inferir em um texto quais são os objetivos de seu produtor e quem é seu público alvo, pela análise dos procedimentos argumentativos utilizados."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H24",
+                "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "IV",
+            "nome": "Construir argumentação (CA)",
+            "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Gênero textual: carta do leitor e estratégias argumentativas",
+        "conteudos_relacionados": [
+            "Tipologia textual argumentativa",
+            "Interlocução e intencionalidade discursiva",
+            "Crítica e contraposição de pontos de vista"
+        ],
+        "assunto": "Estratégia argumentativa e função sociocomunicativa da carta do leitor",
+        "objeto_de_analise": "Carta de leitor publicada na Revista Época sobre reportagem de separação de casais",
+        "fenomeno_conceito": "Contra-argumentação e adequação temática ao público-alvo"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "faz uma síntese do que foi abordado na reportagem.",
+            "correta": false,
+            "justificativa": "O leitor não faz um resumo da matéria original, apenas menciona que ela focou em 'grandes separações' para contestar essa abordagem."
+        },
+        {
+            "letra": "B",
+            "texto": "discute problemas conjugais que conduzem à separação.",
+            "correta": false,
+            "justificativa": "O autor menciona causas de rompimento apenas no início como introdução temática, sem desenvolvê-las como cerne de sua argumentação."
+        },
+        {
+            "letra": "C",
+            "texto": "aborda a importância dos advogados em processos de separação.",
+            "correta": false,
+            "justificativa": "A menção aos advogados consultados serve para justificar o viés de alto padrão econômico da matéria, e não para ressaltar a relevância profissional desses operadores do Direito."
+        },
+        {
+            "letra": "D",
+            "texto": "oferece dicas para orientar as pessoas em processos de separação.",
+            "correta": false,
+            "justificativa": "O leitor não visa instruir diretamente o público em geral com conselhos práticos, mas sim sugerir pautas e abordagens que a revista deveria ter adotado em benefício do leitor médio."
+        },
+        {
+            "letra": "E",
+            "texto": "rebate o enfoque dado ao tema pela reportagem, lançando novas ideias.",
+            "correta": true,
+            "justificativa": "O autor questiona o foco elitista da matéria ('grandes separações', fotos de obras de arte) e propõe tópicos mais pertinentes e úteis para a realidade do leitor médio (como partilha em acordos amigáveis e pensão dos filhos)."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "deepseek-r1",
+        "datetime": "2026-10-22T21:56:50.749259",
+        "confianca": "alta",
+        "evidencias": [
+            "O leitor expressa expressamente o questionamento sobre o enfoque: 'Mas acho que os advogados consultados [...] estão acostumados a tratar de grandes separações. Será que a maioria dos leitores da revista tem obras de arte...'",
+            "Propõe ideias alternativas direcionadas ao público geral: 'Não seria mais útil dar conselhos mais básicos? [...] Acho que essas são dicas que podem interessar ao leitor médio.'",
+            "Gabarito oficial E confirmado."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-103.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

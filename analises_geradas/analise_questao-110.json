@@ -1,0 +1,113 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 110,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-110.txt",
+            "gabarito": "A"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LC",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C5",
+            "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+        },
+        "habilidade_principal": {
+            "id": "H16",
+            "descricao": "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H17",
+                "descricao": "Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Literatura Brasileira Moderna e Contemporânea: Prosa de Ficção",
+        "conteudos_relacionados": [
+            "Figuras de linguagem (metáfora e alegoria)",
+            "Análise e interpretação do texto literário",
+            "Relações de poder e discursos sociais na literatura"
+        ],
+        "assunto": "Recursos expressivos e construção alegórica na caracterização de personagens na literatura contemporânea",
+        "objeto_de_analise": "Fragmento do conto 'O aprendizado', de Samuel Rawet",
+        "fenomeno_conceito": "Metáfora do títere e crítica à alienação/instrumentalização do sujeito nas relações sociais de poder"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "na imagem do títere ou fantoche em que o personagem acaba por se transformar, acreditando dominar os jogos de poder na linguagem.",
+            "status": "correta",
+            "justificativa": "O narrador ironiza e critica a ilusão de controle do indivíduo ao apresentá-lo como 'títere voluntário e consciente', alguém que desfaz de si mesmo (entrega braços, pernas, articulações) para manipular os outros, transformando-se ele próprio em uma marionete dos jogos sociais de poder."
+        },
+        {
+            "letra": "B",
+            "texto": "na alusão à falta de articulações e reflexos do personagem, dando a entender que ele não possui o manejo dos jogos discursivos em todas as situações.",
+            "status": "incorreta",
+            "justificativa": "O texto explicita justamente o oposto: ele desfaz-se de suas articulações propositalmente por mera conveniência ('quando achava nisso conveniência'), possuindo pleno domínio instrumental das situações."
+        },
+        {
+            "letra": "C",
+            "texto": "no comentário, feito em tom de censura pelo autor, sobre as frases obscenas que o personagem emite em determinados ambientes sociais.",
+            "status": "incorreta",
+            "justificativa": "A emissão de 'frase picante ou obscena' é apenas um detalhe exemplificativo da capacidade de adequação do personagem, e não o núcleo da crítica que abrange toda a sua postura servil/arrogante."
+        },
+        {
+            "letra": "D",
+            "texto": "nas expressões que mostram tons opostos nos discursos empregados aleatoriamente pelo personagem em conversas com interlocutores variados.",
+            "status": "incorreta",
+            "justificativa": "O uso dos tons opostos não ocorre de modo aleatório, mas de maneira friamente calculada conforme a hierarquia ('o tom humilde diante do superior útil, o grosseiro diante do inferior')."
+        },
+        {
+            "letra": "E",
+            "texto": "no falso elogio à originalidade atribuída a esse personagem, responsável por seu sucesso no aprendizado das regras de linguagem da sociedade.",
+            "status": "incorreta",
+            "justificativa": "O texto não atribui originalidade ao personagem nem elogia tal aspecto; ao contrário, afirma que se trata de uma arte que é 'mais artifício', fundada na conveniência, submissão e oportunismo."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "v3",
+        "datetime": "2026-10-22T22:03:46.670692",
+        "confianca": "alta",
+        "evidencias": [
+            "O gabarito oficial fornecido é a letra A.",
+            "O texto utiliza explicitamente a metáfora 'títere voluntário e consciente' para caracterizar a desumanização e anulação do indivíduo que se molda hipocritamente ao poder.",
+            "A questão avalia os procedimentos formais de construção literária (metáfora do títere/marionete) para veicular um juízo crítico, enquadrando-se perfeitamente na H16 da Competência 5."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-110.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

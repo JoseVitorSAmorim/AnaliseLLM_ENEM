@@ -1,0 +1,108 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 116,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos/questao-116.txt",
+            "gabarito": "D"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LC",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C6",
+            "descricao": "Compreender e usar os sistemas simbólicos das diferentes linguagens como meios de organização cognitiva da realidade pela constituição de significados, expressão, comunicação e informação."
+        },
+        "habilidade_principal": {
+            "id": "H18",
+            "descricao": "Identificar os elementos que concorrem para a progressão temática e para a organização e estruturação de textos de diferentes gêneros e tipos."
+        },
+        "habilidades_relacionadas": [],
+        "eixo_cognitivo": {
+            "id": "I",
+            "nome": "Dominar linguagens (DL)",
+            "descricao": "dominar a norma culta da Língua Portuguesa e fazer uso das linguagens matemática, artística e científica e das línguas espanhola e inglesa."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Relações lógico-semânticas e operadores discursivos",
+        "conteudos_relacionados": [
+            "Semântica e efeitos de sentido",
+            "Gênero textual tirinha",
+            "Modalização discursiva e hipótese"
+        ],
+        "assunto": "Efeitos de sentido gerados por conectivos e expressões modalizadoras no texto",
+        "objeto_de_analise": "A locução conjuntiva/comparativa-hipotética 'é como se' na fala do personagem Hagar",
+        "fenomeno_conceito": "Expressão de hipótese/suposição (campo da possibilidade)"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "conformidade, pois as condições meteorológicas evidenciam um acontecimento ruim.",
+            "correta": false,
+            "justificativa": "A locução 'é como se' introduz uma comparação hipotética (suposição/possibilidade), e não uma relação de conformidade (que seria expressa por conjunções como 'conforme', 'segundo', 'de acordo com')."
+        },
+        {
+            "letra": "B",
+            "texto": "reflexibilidade, pois o personagem se refere aos tubarões usando um pronome reflexivo.",
+            "correta": false,
+            "justificativa": "A expressão 'é como se' não atua como marca de reflexibilidade sintática ou semântica da ação verbal."
+        },
+        {
+            "letra": "C",
+            "texto": "condicionalidade, pois a atenção dos personagens é a condição necessária para a sua sobrevivência.",
+            "correta": false,
+            "justificativa": "Embora contenha a palavra 'se', a locução 'é como se' não estabelece uma oração subordinada condicional que expressa requisito necessário à ação principal, mas sim uma analogia figurada/hipotética."
+        },
+        {
+            "letra": "D",
+            "texto": "possibilidade, pois a proximidade dos tubarões leva à suposição do perigo iminente para os homens.",
+            "correta": true,
+            "justificativa": "A estrutura 'é como se' constrói uma hipótese/suposição comparativa diante da cena, situando a interpretação do perigo no plano da probabilidade e da possibilidade."
+        },
+        {
+            "letra": "E",
+            "texto": "impessoalidade, pois o personagem usa a terceira pessoa para expressar o distanciamento dos fatos.",
+            "correta": false,
+            "justificativa": "O uso da locução não objetiva conferir impessoalidade discursiva ou distanciamento, mas introduzir uma analogia hipotética e subjetiva sobre o perigo enfrentado."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "v3",
+        "datetime": "2026-10-22T22:09:57.252146",
+        "confianca": "alta",
+        "evidencias": [
+            "O comando questiona o sentido e papel semântico-discursivo da expressão 'é como se' na fala da personagem.",
+            "A expressão 'é como se' estabelece valor semântico de hipótese, comparação irreal ou suposição, correspondente a 'possibilidade' na alternativa D.",
+            "Gabarito oficial D ratifica a análise."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-116.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

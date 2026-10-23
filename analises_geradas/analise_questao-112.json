@@ -1,0 +1,113 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": "112",
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-112.txt",
+            "gabarito": "D"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LC",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C7",
+            "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+        },
+        "habilidade_principal": {
+            "id": "H21",
+            "descricao": "Reconhecer em textos de diferentes gêneros, recursos verbais e não-verbais utilizados com a finalidade de criar e mudar comportamentos e hábitos."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H19",
+                "descricao": "Analisar a função da linguagem predominante nos textos em situações específicas de interlocução."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Gêneros textuais e propaganda institucional",
+        "conteudos_relacionados": [
+            "Funções da linguagem",
+            "Intertextualidade",
+            "Recursos verbais e não verbais"
+        ],
+        "assunto": "Finalidade comunicativa em campanhas institucionais educativas",
+        "objeto_de_analise": "Cartaz de conscientização do Sistema Integrado de Bibliotecas da UFG",
+        "fenomeno_conceito": "Função conativa/apelativa e persuasão para mudança de conduta de usuários"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "socializadora, contribuindo para a popularização da arte.",
+            "correta": false,
+            "justificativa": "A apropriação da obra de Dalí é um recurso persuasivo e intertextual, não tendo como finalidade primária a divulgação ou popularização da história da arte."
+        },
+        {
+            "letra": "B",
+            "texto": "sedutora, considerando a leitura como uma obra de arte.",
+            "correta": false,
+            "justificativa": "O cartaz não aborda o ato da leitura como obra de arte em si, mas sim a pontualidade no cumprimento de prazos de devolução dos livros."
+        },
+        {
+            "letra": "C",
+            "texto": "estética, propiciando uma apreciação despretensiosa da obra.",
+            "correta": false,
+            "justificativa": "A intenção do cartaz institucional não é meramente estética ou despretensiosa, pois há um propósito comunicativo utilitário e normativo bem definido."
+        },
+        {
+            "letra": "D",
+            "texto": "educativa, orientando o comportamento de usuários de um serviço.",
+            "correta": true,
+            "justificativa": "O cartaz tem objetivo pedagógico/educativo de orientar e conscientizar os usuários da biblioteca a cumprirem os prazos estipulados para a devolução de livros, evitando multas e transtornos coletivos."
+        },
+        {
+            "letra": "E",
+            "texto": "contemplativa, evidenciando a importância de artistas internacionais.",
+            "correta": false,
+            "justificativa": "O propósito principal da peça de comunicação da universidade não é contemplar ou exaltar a importância do artista internacional, mas regular uma prática institucional."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "1.0",
+        "datetime": "2026-10-22T22:05:21.842339",
+        "confianca": "alta",
+        "evidencias": [
+            "O texto do cartaz informa explicitamente: 'O atraso na devolução de livros acarreta multa e gera transtornos para os usuários. Respeite as datas de devolução.'",
+            "O gênero cartaz institucional associado a uma biblioteca universitária objetiva modificar/orientar o comportamento da comunidade acadêmica.",
+            "O gabarito oficial confirma a alternativa D."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-112.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

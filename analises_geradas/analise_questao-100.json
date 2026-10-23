@@ -1,0 +1,108 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": "100",
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": "100",
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-100.txt",
+            "gabarito": "B"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LCT",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C7",
+            "descricao": "Confrontar opiniões e pontos de vista sobre as diferentes linguagens e suas manifestações específicas."
+        },
+        "habilidade_principal": {
+            "id": "H24",
+            "descricao": "Reconhecer no texto estratégias argumentativas empregadas para o convencimento do público, tais como a intimidação, sedução, comoção, chantagem, entre outras."
+        },
+        "habilidades_relacionadas": [],
+        "eixo_cognitivo": {
+            "id": "IV",
+            "nome": "Construir argumentação (CA)",
+            "descricao": "relacionar informações, representadas em diferentes formas, e conhecimentos disponíveis em situações concretas, para construir argumentação consistente."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Estratégias argumentativas e recursos de persuasão no texto de divulgação científica",
+        "conteudos_relacionados": [
+            "Gênero textual de divulgação científica",
+            "Recursos de coesão e coerência na argumentação",
+            "Comparação e exemplificação textual"
+        ],
+        "assunto": "Tipologia textual e estratégias de argumentação",
+        "objeto_de_analise": "Texto 'Não somos tão especiais' (Superinteressante)",
+        "fenomeno_conceito": "Estratégias argumentativas baseadas em comparação e exemplificação para refutar uma tese preestabelecida"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "definição e hierarquia.",
+            "correta": false,
+            "justificativa": "O texto não se estrutura pela definição conceitual estrita nem estabelece uma relação hierárquica entre as espécies, mas sim desconstrói a hierarquia existente entre seres humanos e animais."
+        },
+        {
+            "letra": "B",
+            "texto": "exemplificação e comparação.",
+            "correta": true,
+            "justificativa": "Para sustentar a tese de que os seres humanos não são tão especiais, o autor compara comportamentos humanos aos de outros animais (inteligência, amor, consciência, cultura) e exemplifica com espécies específicas (corvos, chimpanzés, orangotangos, cetáceos)."
+        },
+        {
+            "letra": "C",
+            "texto": "causa e consequência.",
+            "correta": false,
+            "justificativa": "A progressão argumentativa não se baseia em demonstrar uma relação de causalidade e seus efeitos, mas na equiparação de atributos por meio de fatos observáveis em várias espécies."
+        },
+        {
+            "letra": "D",
+            "texto": "finalidade e meios.",
+            "correta": false,
+            "justificativa": "Não há uma estrutura argumentativa voltada a explicitar propósitos (finalidades) e métodos práticos para atingi-los (meios)."
+        },
+        {
+            "letra": "E",
+            "texto": "autoridade e modelo.",
+            "correta": false,
+            "justificativa": "Embora cite um primatologista (Frans de Waal) na seção 'Cultura', o texto em sua totalidade sustenta o ponto de vista principal por meio do cotejo comparativo sistemático e de variados exemplos concretos, não se reduzindo a argumento de autoridade e modelo."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "r1",
+        "datetime": "2026-10-22T21:54:59.959666",
+        "confianca": "alta",
+        "evidencias": [
+            "O comando da questão solicita explicitamente 'As estratégias argumentativas utilizadas para sustentar esse ponto de vista'.",
+            "O texto emprega exemplos pontuais (corvos, chimpanzés, orangotangos) e compara as habilidades desses animais com atributos tradicionalmente considerados exclusivos dos humanos.",
+            "A habilidade H24 prevê o reconhecimento no texto de estratégias argumentativas empregadas."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-100.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": null,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}
