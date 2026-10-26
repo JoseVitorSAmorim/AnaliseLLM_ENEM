@@ -6,8 +6,10 @@ from collections import deque
 from google import genai
 from google.genai import types
 from datetime import datetime
+from dotenv import load_dotenv
 
 # ==================== CONFIGURAÇÕES ====================
+load_dotenv()
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
     raise RuntimeError("A variável de ambiente GEMINI_API_KEY não está definida.")
