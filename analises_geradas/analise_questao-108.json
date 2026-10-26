@@ -1,0 +1,112 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 108,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos\\questao-108.txt",
+            "gabarito": "D"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "linguagens",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C5",
+            "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+        },
+        "habilidade_principal": {
+            "id": "H16",
+            "descricao": "Relacionar informações sobre concepções artísticas e procedimentos de construção do texto literário."
+        },
+        "habilidades_relacionadas": [
+            {
+                "id": "H15",
+                "descricao": "Estabelecer relações entre o texto literário e o momento de sua produção, situando aspectos do contexto histórico, social e político."
+            }
+        ],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Literatura Brasileira: Modernismo de Primeira Fase",
+        "conteudos_relacionados": [
+            "Identidade nacional no Modernismo",
+            "Poesia modernista e procedimentos formais",
+            "Antropofagia e hibridismo cultural"
+        ],
+        "assunto": "Modernismo no Brasil (1ª Fase)",
+        "objeto_de_analise": "O poema 'O trovador', de Mário de Andrade",
+        "fenomeno_conceito": "Construção da identidade cultural brasileira a partir da tensão entre o elemento autóctone (indígena) e a herança europeia civilizada"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "abordado subliminarmente, por meio de expressões como “coração arlequinal” que, evocando o carnaval, remete à brasilidade.",
+            "correta": false,
+            "justificativa": "A referência ao 'arlequim'/'arlequinal' remete à tradição da commedia dell'arte europeia e à multiplicidade/fragmentação cultural, não se limitando ao carnaval como representação subliminar da brasilidade, tampouco sendo essa a chave central da identidade posta no clímax do poema."
+        },
+        {
+            "letra": "B",
+            "texto": "verificado já no título, que remete aos repentistas nordestinos, estudados por Mário de Andrade em suas viagens e pesquisas folclóricas.",
+            "correta": false,
+            "justificativa": "O título 'O trovador' evoca a tradição lírica medieval europeia (trovadorismo), e não os repentistas nordestinos, além de o foco do poema residir no choque estético e identitário do eu lírico."
+        },
+        {
+            "letra": "C",
+            "texto": "lamentado pelo eu lírico, tanto no uso de expressões como “Sentimentos em mim do asperamente” (v. 1), “frio” (v. 6), “alma doente” (v. 7), como pelo som triste do alaúde “Dlorom” (v. 9).",
+            "correta": false,
+            "justificativa": "O eu lírico expressa conflito interno, ironia e complexidade psicológica/estética, mas o tema da identidade nacional não é meramente 'lamentado' como uma perda ou tristeza decorrente do som do alaúde."
+        },
+        {
+            "letra": "D",
+            "texto": "problematizado na oposição tupi (selvagem) x alaúde (civilizado), apontando a síntese nacional que seria proposta no Manifesto Antropófago, de Oswald de Andrade.",
+            "correta": true,
+            "justificativa": "No emblemático verso 'Sou um tupi tangendo um alaúde!', Mário de Andrade sintetiza a dualidade fundante da cultura brasileira: o elemento nativo/primitivo ('tupi') em tensão e contato com a tradição letrada europeia ('alaúde'), antecipando as reflexões modernistas sobre a assimilação e reelaboração cultural."
+        },
+        {
+            "letra": "E",
+            "texto": "exaltado pelo eu lírico, que evoca os “sentimentos dos homens das primeiras eras” para mostrar o orgulho brasileiro por suas raízes indígenas.",
+            "correta": false,
+            "justificativa": "Não há uma exaltação ingênua ou ufanista das raízes indígenas nos moldes do Romantismo; a postura modernista do poema é irônica, conflituosa e problematizadora da identidade brasileira."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "deepseek-r1",
+        "datetime": "2026-10-26T18:13:36.497987",
+        "confianca": "alta",
+        "evidencias": [
+            "O verso 'Sou um tupi tangendo um alaúde!' explicita a oposição entre o indígena autóctone ('tupi') e o instrumento de cordas de tradição lírica europeia ('alaúde').",
+            "A alternativa D relaciona diretamente essa imagem poética à problemática da identidade e da antropofagia cultural no Modernismo brasileiro."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-108.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": false,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}

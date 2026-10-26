@@ -1,0 +1,108 @@
+{
+    "questao": {
+        "identificacao_caderno": {
+            "ano": 2012,
+            "dia": 2,
+            "numero": null,
+            "cor": "AMARELO",
+            "aplicacao": "REGULAR"
+        },
+        "identificacao_questao": {
+            "numero": 109,
+            "espanhol": false,
+            "ingles": false
+        },
+        "conteudo_questao": {
+            "link_imagem": null,
+            "caminho_texto": "textos_extraidos/questao-109.txt",
+            "gabarito": "A"
+        }
+    },
+    "classificacao_matriz": {
+        "area": {
+            "id": "LC",
+            "nome": "Linguagens, Códigos e suas Tecnologias"
+        },
+        "competencia": {
+            "id": "C5",
+            "descricao": "Analisar, interpretar e aplicar recursos expressivos das linguagens, relacionando textos com seus contextos, mediante a natureza, função, organização, estrutura das manifestações, de acordo com as condições de produção e recepção."
+        },
+        "habilidade_principal": {
+            "id": "H17",
+            "descricao": "Reconhecer a presença de valores sociais e humanos atualizáveis e permanentes no patrimônio literário nacional."
+        },
+        "habilidades_relacionadas": [],
+        "eixo_cognitivo": {
+            "id": "II",
+            "nome": "Compreender fenômenos (CF)",
+            "descricao": "construir e aplicar conceitos das várias áreas do conhecimento para a compreensão de fenômenos naturais, de processos histórico-geográficos, da produção tecnológica e das manifestações artísticas."
+        }
+    },
+    "classificacao_de_conteudo": {
+        "conteudo_principal": "Literatura Brasileira: Modernismo e Existencialismo",
+        "conteudos_relacionados": [
+            "Interpretação de texto literário",
+            "Identidade e corporeidade",
+            "Valores humanos na poesia brasileira"
+        ],
+        "assunto": "A construção da identidade e os conflitos existenciais na poesia drummondiana",
+        "objeto_de_analise": "Poema em prosa \"Verbo ser\", de Carlos Drummond de Andrade",
+        "fenomeno_conceito": "Corporeidade e crise existencial frente às imposições sociais de identidade"
+    },
+    "analise_alternativas": [
+        {
+            "letra": "A",
+            "texto": "no conflito do padrão corporal imposto contra as convicções de ser autêntico e singular.",
+            "correta": true,
+            "justificativa": "O eu lírico questiona a necessidade de adaptação aos padrões e expectativas sociais de 'ser quando crescer' ('Usar outro nome, corpo e jeito?'), contrapondo tais imposições à sua própria singularidade e desejo de autenticidade ('Não quero ser. Vou crescer assim mesmo.')."
+        },
+        {
+            "letra": "B",
+            "texto": "na aceitação das imposições da sociedade seguindo a influência de outros.",
+            "correta": false,
+            "justificativa": "O texto expressa resistência e recusa às imposições sociais ('Não vou ser. Não quero ser.'), e não aceitação passiva."
+        },
+        {
+            "letra": "C",
+            "texto": "na confiança no futuro, ofuscada pelas tradições e culturas familiares.",
+            "correta": false,
+            "justificativa": "O texto não aborda confiança no futuro nem faz menção específica a tradições ou opressões de ordem estritamente familiar."
+        },
+        {
+            "letra": "D",
+            "texto": "no anseio de divulgar hábitos enraizados, negligenciados por seus antepassados.",
+            "correta": false,
+            "justificativa": "Não há no texto menção a resgate ou divulgação de hábitos ancestrais negligenciados."
+        },
+        {
+            "letra": "E",
+            "texto": "na certeza da exclusão, revelada pela indiferença de seus pares.",
+            "correta": false,
+            "justificativa": "A inquietação parte das constantes cobranças e perguntas do entorno ('Vivem perguntando em redor'), e não da indiferença ou da certeza de exclusão por parte de seus pares."
+        }
+    ],
+    "auditoria_da_ia": {
+        "modelo": "gemini-3.8-flash",
+        "versao": "2024-07-18",
+        "datetime": "2026-10-26T18:16:34.869362",
+        "confianca": "alta",
+        "evidencias": [
+            "O texto 'Verbo ser' é de Carlos Drummond de Andrade, pertencente ao patrimônio literário nacional (C5/H17).",
+            "A questão aborda reflexões existenciais e a autoimagem/corporeidade no texto poético.",
+            "O gabarito oficial fornecido é a alternativa A."
+        ],
+        "proveniencia": {
+            "arquivo_questao": "questao-109.txt",
+            "arquivo_matriz": "matriz_referencia_enem.json"
+        },
+        "validacao_humana": {
+            "validado": false,
+            "data_validacao": null
+        }
+    },
+    "estudante": {
+        "nome_completo": "José Vitor Santana de Amorim",
+        "colegio": "CCM Marechal Rondon",
+        "turma": "3B"
+    }
+}
